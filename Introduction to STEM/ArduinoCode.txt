@@ -220,7 +220,7 @@ followline("right","yes",999,16);
 backward(2);
 turn("left",90);
 stpatline("fwd");
-turn("left",90);                   /* i love geferson ry*/
+turn("left",90);
 delay(1000);
 flagdown();
 delay(1000);
